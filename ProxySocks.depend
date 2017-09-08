@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1504105347 source:/home/axel/ITBA/Protocolos/ProxySocks/ProxySocks/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<string.h>
+	<unistd.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<ctype.h>
+
